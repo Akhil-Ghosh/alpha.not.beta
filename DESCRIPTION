@@ -1,0 +1,8 @@
+Package: alpha.not.beta
+Type: Package
+Title: Generates random letter
+Version: 1.0
+Date: 2021-11-14
+Author: Akhil Ghosh
+Description: So you want a letter? you can get a letter, just not one you choose. But maybe. its a 1/26 chance. Use alphabet().
+License: N/A
